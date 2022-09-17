@@ -1,0 +1,25 @@
+# Free, Open Source Movie Databases
+
+## IMDb
+
+- [IMDb Datasets](https://www.imdb.com/interfaces/) API & Endpoints
+- [Dataset files](https://datasets.imdbws.com/)
+- [How to use IMDb data in search and machine learning applications](https://aws.amazon.com/blogs/media/how-to-use-imdb-data-in-search-and-machine-learning-applications/)
+by **Asim Jalis**
+Published April 1, 2022
+
+## The Movie Database
+
+[The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
+
+## The Open Movie Database (OMDb)
+
+[The Open Movie Database(OMDb) for fetching movie data: Make your own portal for the Internet Movie Database(IMDB)/OMDB](https://medium.com/nerd-for-tech/the-open-movie-database-omdb-for-fetch-movie-data-bc5ff46bec8)
+by **Isurie K. Liyanage**
+Published July 14, 2021
+
+[The Open Movie Database(OMDb) API](https://www.omdbapi.com/)
+
+[Open Movie Database v1.19](https://llamalab.com/automate/community/flows/33988)
+by **Arena Closer**
+Published April 16, 2022
