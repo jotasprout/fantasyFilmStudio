@@ -1,5 +1,7 @@
 # Fantasy Film Studio
 
-Is there a RottenTomatoes or other API to get box office stats?
+It's like Fantasy Football but not stupid.
 
-Individual and group game. Draft executives, studios, cast, crew, writers. Win by tracking awards, box office, and reviews.
+Instead of drafting players, you draft executives, studios, cast, crew, writers. 
+
+I don't know how you win in fantasy football but in Fantasy Film Studio, a player wins by tracking awards, box office, and reviews.
